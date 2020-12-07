@@ -1,0 +1,99 @@
+nutrición_y_cuidados_médicos_básicos:
+- - alimento
+  - alimentos
+  - comida
+  - escaso
+  - recurso
+  - escasos
+  - recursos
+  - materna
+  - mortalidad
+  - infantil
+  - infantes
+  - defunción
+  - defunciones
+  - influenza
+  - covid
+  - coronavirus
+agua_y_saneamiento:
+- - agua
+  - drenaje
+  - sanitario
+  - servicio
+  - servicios
+vivienda:
+- - hogar
+  - hogares
+seguridad_personal:
+- - homicidio
+  - homicidios
+  - delictiva
+  - crimen
+  - violencia
+  - feminicidio
+  - feminicidios
+  - seguridad
+acceso_a_conocimientos_básicos:
+- - educación
+  - educar
+  - maestra
+  - maestras
+  - maestro
+  - maestros
+  - profesor
+  - profesores
+  - alumno
+  - alumnos
+  - estudiante
+  - estudiantes
+acceso_a_información_y_comunicaciones:
+- - internet
+  - periodista
+  - periodismo
+  - periodistas
+  - periódico
+  - periódicos
+salud_y_bienestar:
+- - suicidio
+  - suicidios
+  - hipertensión
+  - diabetes
+  - obesidad
+  - etiquetado
+calidad_medioambiental:
+- - ambiente
+  - medioambiente
+  - ecología
+  - ecológico
+  - basura
+  - desecho
+derechos_personales:
+- - electoral
+  - elecciones
+  - participación
+  - ciudadana
+  - ciudadanía
+  - democracia
+libertad_personal_y_de_elección:
+- - embarazo
+  - jóvenes
+  - juventud
+  - juventudes
+  - corrupción
+  - informal
+  - informalidad
+inclusión:
+- - legisladora
+  - lgbt
+  - lgbtttiq
+  - indígena
+  - indígenas
+  - discapacidad
+  - discapacidades
+  - diversidad
+acceso_a_educación_superior:
+- - posgrado
+  - licenciatura
+  - posgrados
+  - licenciaturas
+  - educación
